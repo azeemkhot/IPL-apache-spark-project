@@ -39,5 +39,5 @@ The IPL dataset consists of two main parts for each match:
 6. **Visualization**
    - Visualized key insights using **Matplotlib**, including:
      - Player performance trends.
-     - Run distributions.
+     - Run distributions across seasons.
      - Team win-loss ratios.
